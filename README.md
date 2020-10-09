@@ -1,11 +1,11 @@
 ﻿<p align="center">
-  <a href="https://py-contributors.github.io/awesomeScripts/"><img src="https://capsule-render.vercel.app/api?type=rect&color=666666&height=100&section=header&text=Algorithms%20And%20Data%20Structures&fontSize=55%&fontColor=ffffff" alt="website title image"></a>
+  <a href="https://py-contributors.github.io/awesomeScripts/"><img src="https://capsule-render.vercel.app/api?type=rect&color=666666&height=100&section=header&text=Algorithms%20And%20Data%20Structures&fontSize=55%&fontColor=ffffff&fontAlignY=65" alt="website title image"></a>
   <h2 align="center">👉 A Collection of Algorithm And Data Structures in Cpp and Python 👈</h2>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/language-python-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/language-C++-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/language-C++-ff69b4?style=for-the-badge">
 <a href="https://github.com/Py-Contributors/awesomeScripts/stargazers"><img src="https://img.shields.io/github/stars/Py-Contributors/AlgorithmsAndDataStructure?style=for-the-badge" alt="github stars"></a>
 <a href="https://github.com/Py-Contributors/awesomeScripts/network/members"><img src="https://img.shields.io/github/forks/Py-Contributors/AlgorithmsAndDataStructure?style=for-the-badge" alt="github forks"></a>
 <img src="https://img.shields.io/github/languages/code-size/py-contributors/AlgorithmsAndDataStructure?style=for-the-badge" alt="code size">
